@@ -7,20 +7,3 @@ When we click on a specific tab, it scrolls us to that version.
 There is a downloadable file of resume/CV provided as well.
 There is a javascript validation provided for the "submit" form present in the contact form. 
 It stores all the data of the viewer/person who sent a message to my email in the Excel Sheets.
-
-
-
-
-
-
-
-
-
-
-## About Calculator access
-It has 19 buttons
-To enter a number or digit,click on the buttons representing digits.
-To perform an operation, click on the button with the operator symbol.
-To get the result/output, click on the button with '=' sign.
-Operations like addition,subtraction,multiplication and division can be performed.
-Its a basic calculator.
