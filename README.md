@@ -7,3 +7,4 @@ When we click on a specific tab, it scrolls us to that version.
 There is a downloadable file of resume/CV provided as well.
 There is a javascript validation provided for the "submit" form present in the contact form. 
 It stores all the data of the viewer/person who sent a message to my email in the Excel Sheets.
+It has html,css and javascript code.
